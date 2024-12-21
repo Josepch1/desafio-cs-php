@@ -94,8 +94,6 @@ Após o comando executar e o container estiver rodando, todas as funcionalidades
 
 Foi adicionado um novo arquivo chamado `newPostman-api.json` na pasta /docs, já com as novas rotas.
 
-Na tarefa de relatório, acredito que não seja necessária a quebra de linha, apenas uma separação por vírgula.
-
 Foi utilizado o PHP Built-in Server, como sugerido. Não foram feitas alterações no banco de dados nem nos endpoints, apenas foram adicionadas algumas rotas para comportar as tasks.
 
 Agradeço pela oportunidade de realizar o desafio e espero que o resultado esteja de acordo com as expectativas!
