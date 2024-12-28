@@ -268,7 +268,7 @@ class ProductService
             GROUP BY 
                 p.id
             ORDER BY 
-                p.price {$order};
+                p.created_at {$order};
         ");
         $stm->execute();
 
